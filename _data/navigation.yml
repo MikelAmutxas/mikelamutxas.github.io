@@ -1,0 +1,44 @@
+# main links
+main:
+  - title: "Inicio"
+    url: /
+  - title: "Acerca de EDAR 4.0"
+    url: /acerca-edar-4-0/
+  - title: "Escenarios de aplicación"
+    url: /aplicacion/
+  - title: "Noticias"
+    url: /noticias/
+
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+about:
+  - title: "Acerca de EDAR 4.0"
+    children:
+      - title: "Plan del proyecto"
+        url: /acerca-edar-4-0/plan-proyecto/
+      - title: "Equipo"
+        url: /acerca-edar-4-0/equipo/
+      - title: "Impacto"
+        url: /acerca-edar-4-0/impacto/
+      - title: "Estado del proyecto"
+        url: /acerca-edar-4-0/estado-proyecto/
+
+stages:
+  - title: "Escenarios de aplicación"
+    children:
+      - title: "Objetivos"
+        url: /aplicacion/objetivos/
+      - title: "Escenario 1: EDAR de Epele"
+        url: /aplicacion/epele/
+      - title: "Escenario 2: EDAR de la Cartuja"
+        url: /aplicacion/cartuja/
+
+news:
+  - title: "Noticias"
